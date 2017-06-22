@@ -8,6 +8,8 @@
   "license": "",
   "main": "app.js",
   "dependencies": {
+    "moment": "^2.18.1",
+    "moment-timezone": "^0.5.13",
     "restify": "^4.0.2",
     "swagger-restify-mw": "^0.1.0"
   },
